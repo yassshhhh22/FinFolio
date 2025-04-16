@@ -1,0 +1,43 @@
+{
+    "status": "success",
+    "data": {
+      "performance": [
+        { "name": "Jan", "value": 4000 },
+        { "name": "Feb", "value": 3000 },
+        { "name": "Mar", "value": 4500 },
+        { "name": "Apr", "value": 3800 },
+        { "name": "May", "value": 5200 },
+        { "name": "Jun", "value": 5100 }
+      ],
+      "sectorAllocation": [
+        { "name": "Technology", "value": 35 },
+        { "name": "Healthcare", "value": 20 },
+        { "name": "Financial", "value": 15 },
+        { "name": "Consumer Discretionary", "value": 12 },
+        { "name": "Industrial", "value": 10 },
+        { "name": "Other", "value": 8 }
+      ],
+      "topHoldings": [
+        { "name": "Apple Inc.", "ticker": "AAPL", "allocation": 8.2, "change": 2.4, "price": 234.56 },
+        { "name": "Microsoft Corporation", "ticker": "MSFT", "allocation": 7.5, "change": 1.8, "price": 378.92 },
+        { "name": "Amazon.com, Inc.", "ticker": "AMZN", "allocation": 6.8, "change": -0.7, "price": 184.75 },
+        { "name": "Alphabet Inc.", "ticker": "GOOGL", "allocation": 5.3, "change": 1.2, "price": 155.32 },
+        { "name": "NVIDIA Corporation", "ticker": "NVDA", "allocation": 4.9, "change": 3.5, "price": 925.68 }
+      ],
+      "marketStats": {
+        "totalValue": 1245678,
+        "unrealizedGain": 234567,
+        "dividendYield": 2.3,
+        "beta": 0.94,
+        "sharpeRatio": 1.72
+      },
+      "historicalReturns": [
+        { "name": "Jan", "value": 4000 },
+        { "name": "Feb", "value": 3000 },
+        { "name": "Mar", "value": 3500 },
+        { "name": "Apr", "value": 4200 },
+        { "name": "May", "value": 4800 },
+        { "name": "Jun", "value": 5000 }
+      ]
+    }
+  }
